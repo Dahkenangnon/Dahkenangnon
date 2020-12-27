@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  <h4 align="center"><b>"I'm a project to realize."</b></h4>
+  <h4 align="center"><b>"I'm coding myself."</b></h4>
 </p>
 
 <p align="center">
