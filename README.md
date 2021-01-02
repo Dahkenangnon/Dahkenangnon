@@ -3,7 +3,7 @@
   <h1 align="center"><b>Hello there, I'm Dah-kenangnon👋</b></h1>
 </p>
 
-<p>
+<p align="center">
   <h4 align="center"><b>"I'm coding myself."</b></h4>
   https://dahkenangnon.github.io/
 </p>
