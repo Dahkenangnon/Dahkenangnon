@@ -26,7 +26,7 @@
 <br>
 <img align="right" height="270px" alt="GIF" src="https://avatars2.githubusercontent.com/u/57219141?s=460&u=f0fb10260090a00c86ccac8bd84f76673258a4e5&v=4" />
 
-Dev, Engineer, Lover ✨ ✨
+Math & Modeling Engineer, Web Dev & Soft solution coder from Benin for the World & CEO @ePatriote.com ✨ ✨
 
 ⚡ Focusing
 </p>
