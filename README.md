@@ -1,10 +1,10 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/Dahkenangnon) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Dah-kenangnon👋</b></h1>
+  <h1 align="center"><b>I'm Dah-kenangnon👋</b></h1>
 </p>
 
 <p align="center">
-  <h4 align="center"><b>"I'm coding myself."</b><br> https://dahkenangnon.github.io/</h4>
+  <h4 align="center"><b>"I'm coding software."</b><br> https://dahkenangnon.github.io/</h4>
  
 </p>
 
