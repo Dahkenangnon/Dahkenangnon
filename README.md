@@ -26,7 +26,16 @@
 <br>
 <img align="right" height="270px" alt="GIF" src="https://avatars2.githubusercontent.com/u/57219141?s=460&u=f0fb10260090a00c86ccac8bd84f76673258a4e5&v=4" />
 
-Math & Modeling Engineer, Web Dev & Soft solution coder from Benin for the World & CEO @ePatriote.com ✨ ✨
+I'm software developper using 
+{php: ["Symfony"], python: ["AI Packages", "django"], c/c++: [""], dart: ["Flutter"], nodejs: ["ExpressJs", "VueJs", "ElectronJs","FeathersJs"]} 
+to craft software to solve human problems.
+
+By The way, i'm also:
+- Engineer in Mathmatics and Modeling at my training end.
+- CEO @ePatriote.com
+
+Base at Benin from Africa.
+Cheer. ✨ ✨ ✨
 
 ⚡ Focusing
 </p>
