@@ -11,7 +11,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://avatars.githubusercontent.com/u/57219141?v=4">
 
 - Call me **Dah-kenangnon**
-- 🔭 Visit my website  & **Dah-kenangnon.com**
+- 🔭 Visit my website  at **Dah-kenangnon.com**
 - 👯 I’m looking to collaborate on **Web Development** and **open source project**
 - 💬 Ask me about Anything [here](https://github.com/Dahkenangnon/Dahkenangnon/issues/)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
