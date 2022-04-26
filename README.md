@@ -31,19 +31,15 @@
 
 
 #
-
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<img align="center" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif">
 <br/>
 
 
 **LANGUAGES AND TOOLS:**  
 
-
 <br/>
 <br/>
-<img height="40" width="40" src="https://pbs.twimg.com/profile_banners/1254550764489506818/1650961718/1080x360">
-
-
+<img align="center" height="300" width="300" src="https://pbs.twimg.com/profile_banners/1254550764489506818/1650961718/1080x360">
 <br/>
 
 #
