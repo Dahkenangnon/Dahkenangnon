@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  Hello World,  &lt;I'm Justin Dah-kenangnon/&gt; !
+&lt;I'm Justin Dah-kenangnon/&gt; !
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
 </h1>
 
@@ -12,7 +12,7 @@
 
 - Call me **Dah-kenangnon**
 - 🔭 Visit my website  at **Dah-kenangnon.com**
-- 👯 I’m looking to collaborate on **Web Development** and **open source project**
+- 👯 I want to become contributor of **NodeJs** and **Flutter**  and **Php**
 - 💬 Ask me about Anything [here](https://github.com/Dahkenangnon/Dahkenangnon/issues/)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
@@ -34,17 +34,6 @@
 <br/>
 <img align="center" height="auto" width="auto" src="https://pbs.twimg.com/profile_banners/1254550764489506818/1650961718/1080x360">
 <br/>
-
-#
-## 🔥 My contribution streak
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dahkenangnon#version3"/>
-</p>
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Dahkenangnon?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
-
 
 
 <br/>
