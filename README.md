@@ -41,26 +41,8 @@
 
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
-<code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
-<code><img height="40" width="40" src="https://www.php.net/images/logos/new-php-logo.svg"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png"></code>
-<code><img height="40" width="40" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png"></code>
-<code><img height="40" width="40" src="https://symfony.com/logos/symfony_black_03.png"></code>
-<code><img height="40" width="40" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg"></code>
+<img height="40" width="40" src="https://pbs.twimg.com/profile_banners/1254550764489506818/1650961718/1080x360">
 
-# 
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
-<code><img height="40" width="40" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"></code>
-<code><img height="40" width="40" src="https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png"></code>
-<code><img height="40" width="40" src="https://seeklogo.com/images/F/feathersjs-logo-F9F50C6439-seeklogo.com.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
 
 <br/>
 
