@@ -8,41 +8,14 @@
 
 <br/>
 <br/>
-  <img align="right" height="250" width="400" alt="GIF" src="https://avatars.githubusercontent.com/u/57219141?v=4">
+
+
 
 - Call me **Dah-kenangnon**
 - 🔭 Visit my website  at **Dah-kenangnon.com**
 - 👯 I want to become contributor of **NodeJs** and **Flutter**  and **Php**
 - 💬 Ask me about Anything [here](https://github.com/Dahkenangnon/Dahkenangnon/issues/)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
-
-
 <br/>
 <br/>
-
-
-<p align="center">  
-  <img src="https://gpvc.arturio.dev/Dahkenangnon" alt="Dahkenangnon" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Dahkenangnon?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/Dahkenangnon?label=Stars" alt="Total Stars">
-</p>
-
-
-**LANGUAGES AND TOOLS:**  
-
-<br/>
-<br/>
-<img align="center" height="auto" width="auto" src="https://pbs.twimg.com/profile_banners/1254550764489506818/1650961718/1080x360">
-<br/>
-
-
-<br/>
-
-### ⚙️ &nbsp; GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Dahkenangnon">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dahkenangnon&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dahkenangnon&layout=compact&exclude_lang=java+r&theme=vue-light" />
-</a>
-</p>
+  <img align="right" height="250" width="400" alt="GIF" src="https://pbs.twimg.com/profile_banners/1254550764489506818/1652358682/1080x360">
