@@ -21,4 +21,7 @@ I'm Justin Dah-kenangnon !
   <img align="center" height="auto" width="auto" alt="Dah-kenangnon Banner" src="https://pbs.twimg.com/profile_banners/1254550764489506818/1652358682/1080x360">
 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Dahkenangnon)](https://github.com/gazf/github-readme-twitter)
+<p align="center">
+  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=Dahkenangnon)](https://github.com/gazf/github-readme-twitter)
+</p>
+
