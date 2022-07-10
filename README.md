@@ -1,7 +1,7 @@
 # Hi !
 ## I'm Justin Dah-kenangnon (he/him)
 
-I take care of your IDentity and your data on internet:
+I code and take care of your IDentity and your data on internet:
 - :heart: [Open ID Connect 1.0](https://openid.net/specs/openid-connect-core-1_0.html)
 - :heart: [OAuth 2](https://datatracker.ietf.org/doc/html/rfc6749)
 
