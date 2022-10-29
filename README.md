@@ -1,9 +1,5 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://pbs.twimg.com/profile_banners/1254550764489506818/1663071041/1080x360" alt="cover" />
-
-<br>
-<br>
 <br>
 Checkout my Website at: https://dah-kenangnon.com
 <br>
