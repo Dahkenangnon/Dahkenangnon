@@ -2,10 +2,9 @@
 <div align="center">
   Me: https://dah-kenangnon.com & https://astuces.dah-kenangnon.com 
   <br><br>
-  🤝 Partner at Company: https://selys-africa.com ( Côte d'Ivoire based) | 🤝 Partner at Company: https://paonit.com (Cotonou based)
+  🤝 https://selys-africa.com ( Côte d'Ivoire based) | 🤝 https://paonit.com (Cotonou based)
 <br>
 <br>
-  Professionally:
 <br><br>
 I code and take care of your IDentity and your data on internet:
   <br>
@@ -26,7 +25,7 @@ As a Maths Engineer, I compute with:
 
 <div align="center">
    <br> <br>
-  ⭕ Open Source:  https://pub.dev/packages/flutter_feathersjs
+  ⭕ Open Source: Please see pinned repositories
   <br> <br>
 </div>
 
