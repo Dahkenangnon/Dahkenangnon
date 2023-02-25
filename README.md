@@ -1,11 +1,5 @@
 
 <div align="center">
-  Me: https://dah-kenangnon.com & https://astuces.dah-kenangnon.com 
-  <br><br>
-  🤝 https://selys-africa.com ( Côte d'Ivoire based) | 🤝 https://paonit.com (Cotonou based)
-<br>
-<br>
-<br><br>
 I code and take care of your IDentity and your data on internet:
   <br>
 </div>
