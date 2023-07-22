@@ -3,7 +3,7 @@
 >
 > Teaching Socket.io to my daughter
 >
-> Once upon a time in the magical world of the Internet, there was a special place called "Socketville." In Socketville, kids from all around the world could play and talk with each other in real-time, just like magic! 🌍🧙‍♀️🌟 [Continue reading here](https://github.com/Dahkenangnon/express-typescript-postgres-socketio/blob/master/funny-socket-io.md)
+> Once upon a time in the magical world of the Internet, there was a special place called "Socketville." In Socketville, kids from all around the world could play and talk with each other in real-time, just like magic! 🌍🧙‍♀️🌟 [Continue reading here](socketville.md)
 >
 >
 
