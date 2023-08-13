@@ -1,4 +1,3 @@
-![github banner](https://github.com/Dahkenangnon/Dahkenangnon/assets/57219141/de812807-c6c0-4c78-88d6-895d23f427d0)
 
 ## Socketville: A Magical Tale of Real-Time Fun and Friendship
 
