@@ -28,6 +28,8 @@
 >
 > - [BJ Location Data Js](https://github.com/Dahkenangnon/location_data_bj_js)
 >
+> - [Type Safe ExpressJs+Mongoose Rest Api with Typescript and Tests(Unit, Integration and e2e) boilerplate](https://github.com/Dahkenangnon/typescript-express-mongoose-api-boilerplate)
+>
 > **Learning:**
 >
 > React, Full stack React , NextJs, SaaS
