@@ -2,7 +2,7 @@
 _ |-| _ 
 
 
-  <img width="1983" height="600" alt="banner-claviscore" src="https://github.com/user-attachments/assets/c85b0400-99e6-419f-8448-eebc007f2028" />
+<img width="1983" height="600" alt="oidfed-banner" src="https://github.com/user-attachments/assets/421d1963-6441-47d7-affa-ea9fcc789d67" />
 
 
 OpenID Federation for JavaScript provides a standards-compliant specification implementation, including production-grade library code, live playground ([explore.oidfed.com](https://explore.oidfed.com/)), central documentation ([oidfed.com](https://oidfed.com/)), and comprehensive learning resources ([learn.oidfed.com](https://learn.oidfed.com/)). This project enables developers and organizations to adopt and integrate OpenID Federation protocols in JavaScript applications with reliability and interoperability. **OidFed is js runtime agnostic (nodejs, deno, bun, etc).**
